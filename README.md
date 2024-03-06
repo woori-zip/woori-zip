@@ -1,6 +1,6 @@
 ---
 ### 📭 Contact
-<img src="https://img.shields.io/badge/woori.dec@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="mailto:woori.dec@gmail.com"><img src="https://img.shields.io/badge/woori.dec@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woori.dec@gmail.com"/></a>
 
 ### 💪 Skills
 <p>
